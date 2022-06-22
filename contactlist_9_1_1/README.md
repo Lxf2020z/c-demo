@@ -2,7 +2,7 @@
 ## 基于QList容器的联系人列表
 
 ### 目录结构描述
-├── Readme.md                   // help     
+├── Readme.md                   // help      
 ├── contactlist_9_1_1.pro     // 配置     
 ├── widget.h                        //头文件     
 ├── contact.h                        //联系人类头文件     
