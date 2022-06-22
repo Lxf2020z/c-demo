@@ -2,14 +2,14 @@
 ## 基于QList容器的联系人列表
 
 ### 目录结构描述
-├── Readme.md                   // help
-├── contactlist_9_1_1.pro     // 配置
-├── widget.h                        //头文件
-├── contact.h                        //联系人类头文件
-├── main.cpp                       //主函数
-├── widget.cpp                    // 资源文件
-├── contact.cpp                    // 联系人类资源文件
-└── widget.ui                       //页面文件
+├── Readme.md                   // help     
+├── contactlist_9_1_1.pro     // 配置     
+├── widget.h                        //头文件     
+├── contact.h                        //联系人类头文件     
+├── main.cpp                       //主函数     
+├── widget.cpp                    // 资源文件     
+├── contact.cpp                    // 联系人类资源文件     
+└── widget.ui                       //页面文件     
 
 ### 主要功能
 1、运行程序，展示一个简单联系人列表。
